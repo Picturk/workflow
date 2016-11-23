@@ -2,10 +2,14 @@
   "name": "gulp-workflow",
   "version": "0.0.1",
   "description": "workflow template",
-  "main": "index.js",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "?.git"
   },
   "author": "Paul Geraghty",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.7"
+  }
 }
