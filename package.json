@@ -1,0 +1,11 @@
+{
+  "name": "gulp-workflow",
+  "version": "0.0.1",
+  "description": "workflow template",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Paul Geraghty",
+}
